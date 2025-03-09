@@ -14,7 +14,8 @@ The objective was to create a profile card where users can:
 
 ## Screenshot
 
-[!social link][https://github.com/frontdev-arch/Social-Link-Demo/blob/d1a4af896584c48e96dcb6a92d6fa518a6b349fa/127.0.0.1_5500-Social-links-profile.jpeg]
+[![social link](https://github.com/frontdev-arch/Social-Link-Demo/blob/d1a4af896584c48e96dcb6a92d6fa518a6b349fa/127.0.0.1_5500-Social-links-profile.jpeg)](https://github.com/frontdev-arch/Social-Link-Demo/blob/d1a4af896584c48e96dcb6a92d6fa518a6b349fa/127.0.0.1_5500-Social-links-profile.jpeg)
+
 
 
 
